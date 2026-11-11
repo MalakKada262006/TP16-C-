@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1794333076 source:c:\users\cli\onedrive\desktop\tp16-c++\exe02\main.cpp
+	<iostream>
+	<memory>
+	<string>
+
